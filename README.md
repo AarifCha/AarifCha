@@ -20,7 +20,13 @@ Outside of my academic pursuits, I enjoy learning about different cultures and l
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AarifCha&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="AarifCha's Github Stats">
+## My Repositories 📂
+
+| 🚀 Repository Name | 📝 Description |
+|--------------------|----------------|
+| [StringComp](https://github.com/AarifCha/StringComp) | String Theory Computational Project. (On hold) |
+| [RAG-HF-Langchain](https://github.com/AarifCha/RAG-HF-Langchain) | A RAG set up using HuggingFace model in conjunction to Langchain. The set up is meant to be able to run in google colab |
+
 
 </br>
 
