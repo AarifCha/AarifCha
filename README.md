@@ -1,8 +1,8 @@
-<h2> Howdy! I'm Aarif. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<h2> Howdy! I'm Aarif 👋</h2>
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
-I graduated from Texas A&M University with a B.S. in Physics and a minor in Mathematics. I'm passionate about Machine Learning, Quantum Information Sciences, Condensed Matter Physics, and more! I love diving deep into complex problems and finding innovative solutions, whether it's through advanced coursework, hands-on research, or real-world problems.
+I graduated from Texas A&M University with a B.S. in Physics and a minor in Mathematics. I'm passionate about Machine Learning, Quantum Information Sciences, Condensed Matter Physics, and more! I love diving deep into complex problems and finding innovative solutions, whether it's through advanced coursework, hands-on research, or real-world problems.<br><br>
 
 I've worked/ been working on many projects, like developing a Graph Neural Network Model for physics-informed models, and setting up RAG for QA based on arXiv pdfs. I am most proud of my work on Path Integral Monte Carlo which required me to solve complex arbitrary dimensional integrals and do complex mathematical manipulations to derive recursive relations for fermionic propagators. I enjoy working on both analytical and computational tasks and seeing how both sides make crucial contributions to solving a problem!
 
