@@ -26,6 +26,9 @@ Outside of my academic pursuits, I enjoy learning about different cultures and l
 |--------------------|----------------|
 | [StringComp](https://github.com/AarifCha/StringComp) | String Theory Computational Project. (On hold) |
 | [RAG-HF-Langchain](https://github.com/AarifCha/RAG-HF-Langchain) | A RAG set up using HuggingFace model in conjunction to Langchain. The set up is meant to be able to run in google colab |
+| [Statistical Network](https://github.com/AarifCha/Statistical-Network) | Using NN, we learn to generate random numbers according to a learned PDF that helps with Monte Carlo Integration convergence|
+| [Hamiltonian Graph Network](https://github.com/AarifCha/Hamiltonian-Graph-Networks) | Hamiltonian Network with modular particle numbers using Graph Networks (implemented using TF-GNN) |
+
 
 
 </br>
