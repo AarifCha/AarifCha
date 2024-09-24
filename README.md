@@ -14,7 +14,7 @@ Outside of my academic pursuits, I enjoy learning about different cultures and l
 
 - 💻 &nbsp; Python | MATLAB | C++ | Java
 - 🤖 &nbsp; TensorFlow | TF-GNN | Keras | PyTorch
-- 📚 &nbsp; HuggingFace | Langchain
+- 📚 &nbsp; Gemini | HuggingFace | Langchain | LlamaIndex | Chroma | Pinecone
 - 🔧 &nbsp; Linux | Docker | GitHub | Google Colab
 - 🖥 &nbsp; Microsoft Office | LATEX
 
@@ -24,6 +24,7 @@ Outside of my academic pursuits, I enjoy learning about different cultures and l
 
 | 🚀 Repository Name | 📝 Description |
 |--------------------|----------------|
+| [Scientific RAG Gemini](https://github.com/AarifCha/Scientific-RAG-Gemini) | A RAG using Gemini catered to scientific documents and QA needs |
 | [StringComp](https://github.com/AarifCha/StringComp) | String Theory Computational Project. (On hold) |
 | [RAG-HF-Langchain](https://github.com/AarifCha/RAG-HF-Langchain) | A RAG set up using HuggingFace model in conjunction to Langchain. The set up is meant to be able to run in google colab |
 | [Statistical Network](https://github.com/AarifCha/Statistical-Network) | Using NN, we learn to generate random numbers according to a learned PDF that helps with Monte Carlo Integration convergence|
