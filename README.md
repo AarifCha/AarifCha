@@ -1,3 +1,5 @@
+<p align="center"><img src="./banner.svg" alt="Aarif Chaudhary" width="100%"/></p>
+
 <h2>Howdy! I'm Aarif 👋</h2>
 
 <h3>👨🏻‍💻 About Me</h3>
@@ -19,10 +21,11 @@ On the research side, I work on quantum statistics and the fermion sign problem 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | TypeScript | C++ | SQL | Julia | MATLAB | Mathematica
-- 🌐 &nbsp; FastAPI | Next.js | React | PostgreSQL | SQLAlchemy | pytest
-- 🤖 &nbsp; Gemini | Claude Code | LangChain | LlamaIndex | Docling | PyTorch | TensorFlow
-- 🔧 &nbsp; Linux | Docker | Git | GitHub Actions | Odoo | LaTeX
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,ts,cpp,matlab,fastapi,nextjs,react,postgres,pytorch,tensorflow,docker,linux,git,githubactions,latex&perline=15" alt="Tech stack"/>
+</p>
+
+Also Julia, Mathematica, Gemini, Claude Code, LangChain, LlamaIndex, Docling and Odoo.
 
 <h3>📂 Selected Repositories</h3>
 
@@ -34,11 +37,18 @@ On the research side, I work on quantum statistics and the fermion sign problem 
 | [RAG-HF-Langchain](https://github.com/AarifCha/RAG-HF-Langchain) | Retrieval over PDFs with a Hugging Face model and LangChain, runnable in Google Colab |
 | [StringComp](https://github.com/AarifCha/StringComp) | String theory computational project (on hold) |
 
+<h3>🐍 Contributions</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AarifCha/AarifCha/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AarifCha/AarifCha/output/github-snake.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/AarifCha/AarifCha/output/github-snake.svg"/>
+</picture>
+
 <h3>🤝🏻 Connect with Me</h3>
 
 <p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/aarifchaudhary/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:aarifchaudharyg@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
+  <a href="https://www.linkedin.com/in/aarifchaudhary/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" alt="LinkedIn"/></a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=AarifCha)
