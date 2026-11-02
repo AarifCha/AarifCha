@@ -1,14 +1,18 @@
-<p align="center"><img src="./banner.svg" alt="Aarif Chaudhary" width="100%"/></p>
+<p align="center"><img src="./banner.svg" alt="AarifCha" width="100%"/></p>
 
 <h2>Howdy! I'm Aarif 👋</h2>
 
-<h3>👨🏻‍💻 About Me</h3>
-
 I build software for real operations, with a background in physics from Texas A&M (B.S. Physics, minor in Mathematics). I like making custom solutions that fit the flow of a business rather than forcing the business to adapt to the software.
 
-These days I lead a manufacturing operations management system for a quartz-slab manufacturer, built a logistics operations management system for a trucking company, and build LLM tools that read long documents and point back to their sources. Alongside that I build **Keel**, a framework that keeps AI coding agents reliable enough to ship production apps.
+On the research side, I work on quantum statistics and the fermion sign problem with Dr. Siu A. Chin. I enjoy problems where the math and the code both matter, and I'm also drawn to electronics, robotics and quantitative finance.
 
-On the research side, I work on quantum statistics and the fermion sign problem in Path Integral Monte Carlo with Dr. Siu A. Chin. I enjoy problems where the math and the code both matter, and I'm also drawn to electronics, robotics and quantitative finance.
+<h3>🏭 What I Build</h3>
+
+<p align="center"><img src="./work.svg" alt="Manufacturing, logistics and contract review systems" width="100%"/></p>
+
+- **Manufacturing operations management system.** An in-house platform that brings each department's machine, ERP and quality records into one place.
+- **Logistics operations management system.** One live schedule for a truck fleet, from request and approval to GPS tracking and delivery.
+- **AI contract review.** An LLM pipeline that reads long construction contracts and links every flagged clause back to its exact spot in the PDF.
 
 <h3>📄 Research</h3>
 
@@ -18,6 +22,15 @@ On the research side, I work on quantum statistics and the fermion sign problem 
 | [Parafermions in Plain Sight](https://arxiv.org/abs/2609.00545) | Under review at *Physical Review E* |
 | [Newton's Identity in Finite-Bead Fermionic Partition Function](https://arxiv.org/abs/2606.05442) | Under review at *J. Stat. Mech.* |
 | [The Arithmetic of Spectra: Factorization, Statistics, and Symmetric Functions](https://arxiv.org/abs/2609.10391) | Preprint |
+
+<h3>🧰 Projects</h3>
+
+<p align="center"><img src="./keel.svg" alt="Keel build loop" width="100%"/></p>
+
+- **Keel.** A framework that keeps AI coding agents on course while they build and repair production apps.
+- **Accounts Payable Three-Way Match.** Matches purchase orders, invoices and receipts by extracting every field with its location and linking documents in a graph database.
+- **SEC Filings Pipeline and Backtesting Engine.** Pulls company filings from SEC EDGAR, extracts key metrics with an LLM, and replays market data to test trading strategies.
+- **Machine Learning for Physics.** Physics-informed graph neural networks and neural importance sampling for Monte Carlo.
 
 <h3>🛠 Tech Stack</h3>
 
